@@ -2,7 +2,7 @@ kaggle competitions
 
 Two Sigma Connect: Rental Listing Inquiries
 
-多クラス分類
+マルチクラス分類
 
 評価指標：log_loss
 
